@@ -44,9 +44,8 @@
   .photo-card:hover,
   .photo-card:focus{
     transform: scale(1.1);
-    /* position: sticky ; */
-    /* margin-top: 0; */
-    }
+    transition-duration: 1000ms;
+}
 
   .pictures {
     width: 325px;
