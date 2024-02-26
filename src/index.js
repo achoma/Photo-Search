@@ -11,7 +11,7 @@ let page = 1;
 let perPage = 40;
 let searchHits;
 axios.defaults.baseURL = 'https://pixabay.com/api';
-const keyAuthorization = '41134158-d3e94c46577e61eb60875764f&';
+const keyAuthorization = '42580380-f7e9d56cf0d50abf8107b2707';
 
 hiddenElement.style.display = 'none';
 
