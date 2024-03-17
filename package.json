@@ -20,7 +20,9 @@
   "dependencies": {
     "axios": "^1.6.7",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.7"
+    "notiflix": "^3.2.7",
+    "three-js": "^79.0.0",
+    "threejs-components": "^0.0.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
