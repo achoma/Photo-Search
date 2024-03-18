@@ -162,8 +162,13 @@ h1 {
   font-size: 50px;
   color: #ffffff;
 }
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 45px;
+  }
+}
 
-/* ----------------STYLE DO  background ----------------*/
+/* ----------------STYLE background ----------------*/
 body,
 html {
   margin: 0;
